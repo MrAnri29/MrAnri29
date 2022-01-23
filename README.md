@@ -14,6 +14,6 @@ hello! i am a juniordeveloper... my name is anri i am from georgia ita a littel 
   <div> 
 <img src="https://activity-graph.herokuapp.com/graph?username=MrAnri29&theme=minimal"/>
 <div> 
-#center{
- align=center
-}
+#center {  
+text-align: center;  
+}  

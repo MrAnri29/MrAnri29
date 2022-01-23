@@ -8,7 +8,7 @@ hello! i am a juniordeveloper... my name is anri i am from georgia ita a littel 
 <div id = "center1">
 <h3>and here is languages that i know:<h3>
 <style>  
-#center {  
+#center1 {  
 align: center;  
 }  
 </style>  

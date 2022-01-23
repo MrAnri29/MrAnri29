@@ -14,9 +14,9 @@ hello! i am a juniordeveloper... my name is anri i am from georgia ita a littel 
 <div>
 <h4>and here is my stats:<h4>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnri29", align=center/>
-</div> 
-<div> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnri29"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=MrAnri29&theme=minimal"/>
+<img src="">
+<img src="">
 <div> 
  

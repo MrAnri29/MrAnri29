@@ -9,7 +9,7 @@ hello! i am a juniordeveloper... my name is anri i am from georgia ita a littel 
 <h3>and here is languages that i know:<h3>
 <style>  
 #center {  
-text-align: center;  
+align: center;  
 }  
 </style>  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>

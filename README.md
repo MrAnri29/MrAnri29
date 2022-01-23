@@ -3,5 +3,11 @@ hello! i am a juniordeveloper... my name is anri i am from georgia ita a littel 
 <h2 align=center>here is a list of what i can:<h2/>
 <div>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAnri29"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=MrAnri29&theme=minimal"/>
 <div> 
  
